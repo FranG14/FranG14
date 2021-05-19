@@ -1,7 +1,7 @@
 ![Test Image 1](https://github.com/FranG14/FranG14/blob/main/Images/Banner.jpg)
 
 ## My Skills:  
-                 ![Test](https://github.com/FranG14/FranG14/blob/main/Images/Screenshot%202021-05-16%20160209.png)
+![Test](https://github.com/FranG14/FranG14/blob/main/Images/Screenshot%202021-05-16%20160209.png)
 <!--
 **FranG14/FranG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

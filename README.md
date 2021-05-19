@@ -2,6 +2,18 @@
 
 ## My Skills:  
 ![Test](https://github.com/FranG14/FranG14/blob/main/Images/Screenshot%202021-05-16%20160209.png)
+
+## Work In Progress:
+### Clothing E-Commerce:
+
+https://e-commerce-g6.netlify.app/
+
+## My Projects:
+### *Countries Around The World*
+
+
+
+
 <!--
 **FranG14/FranG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,11 @@
 ![Test Image 1](https://github.com/FranG14/FranG14/blob/main/Images/Banner.jpg)
 
 ## My Skills:  
-![Test](https://github.com/FranG14/FranG14/blob/main/Images/Screenshot%202021-05-16%20160209.png)
+✅ JavaScript (ES6)
+
+🔶 Front-End ✅ HTML5 - CSS3 - React - Redux - Tailwind
+
+🔶 Back-End🔩 ✅ Node.js - Express.js - Sequelize ORM - PostgreSQL - MongoDB
 
 ## Work In Progress:
 ### Clothing E-Commerce:

@@ -7,7 +7,7 @@
 
 🔶 Back-End🔩 ✅ Node.js - Express.js - Sequelize ORM - PostgreSQL - MongoDB
 
-## Work In Progress:
+## 🚧 Work In Progress 🚧
 ### Clothing E-Commerce:
 
 https://e-commerce-g6.netlify.app/
